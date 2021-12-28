@@ -1,0 +1,4 @@
+To properly reun this project
+
+click the folder "home-page"
+Then select and run the "index.html" in it.
